@@ -1,0 +1,27 @@
+/* Sidebar utama */
+.main-sidebar {
+    background-color: #7D5300 !important;
+    color: #ffffff !important;
+}
+
+/* Sidebar inner (bagian dalam menu) */
+.main-sidebar .sidebar {
+    background-color: #7D5300 !important;
+}
+
+/* Teks menu sidebar */
+.nav-sidebar .nav-link {
+    color: #ffffff !important;
+}
+
+/* Teks menu ketika hover */
+.nav-sidebar .nav-link:hover {
+    background-color: #5A3D00 !important;
+    color: #ffffff !important;
+}
+
+/* Menu yang aktif */
+.nav-sidebar .nav-link.active {
+    background-color: #5A3D00 !important;
+    color: #ffffff !important;
+}
